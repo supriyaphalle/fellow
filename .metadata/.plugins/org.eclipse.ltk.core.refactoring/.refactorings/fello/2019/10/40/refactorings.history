@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.bridgelaz.functional&apos; to &apos;com.bridgelab.functions&apos;&#x0A;- Original project: &apos;fello&apos;&#x0A;- Original element: &apos;fello/src/com.bridgelaz.functional&apos;&#x0A;- Renamed element: &apos;fello/src/com.bridgelab.functions&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.bridgelaz.functional&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.bridgelaz.functional" name="com.bridgelab.functions" qualified="false" references="true" stamp="1570271478755" textual="false" version="1.0"/>
+</session>
