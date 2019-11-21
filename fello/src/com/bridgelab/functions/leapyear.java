@@ -8,11 +8,11 @@ public class leapyear {
 		Scanner s= new Scanner (System.in);
 		System.out.println("enter the year");
 		int year= s.nextInt();
-		boolean flag= utility.checkleapyear(year);
-		if(flag)
-			System.out.println("tyhe entered year is leapyear");
+		boolean f= utility.checkleapyear(year);
+		if(f)
+			System.out.println("the entered year is leapyear");
 		else
-			System.out.println("tyhe entered year is not leap year ");
+			System.out.println("the entered year is not leap year ");
 		
 	}
 
